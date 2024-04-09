@@ -342,6 +342,9 @@ footer {
   .boxDescription {
     padding: 20px 0px;
   }
+  .boxDescription > div {
+    padding: 20px;
+  }
   .boxDescription > div > p {
     padding-top: 10px;
   }
@@ -354,7 +357,10 @@ footer {
   .boxPersons {
     flex-direction: column;
   }
-  .boxTitle > h1, .titleTestimonials > h1 {
+  .boxTitle > h1 {
+    font-size: large;
+  }
+  .titleTestimonials > h1 {
     font-size: x-large;
   }
 }
