@@ -158,7 +158,7 @@ header > nav {
   flex-direction: column;
 }
 
-.boxDescription div {
+.boxDescription > div {
   padding-left: 40px;
 }
 
