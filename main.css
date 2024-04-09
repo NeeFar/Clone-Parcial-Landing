@@ -343,7 +343,7 @@ footer {
     padding: 20px 0px;
   }
   .boxDescription > div {
-    padding: 20px;
+    padding-left: 20px;
   }
   .boxDescription > div > p {
     padding-top: 10px;
